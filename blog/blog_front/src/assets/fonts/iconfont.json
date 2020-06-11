@@ -1,0 +1,86 @@
+{
+  "id": "1585721",
+  "name": "my_icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "694718",
+      "name": "动态",
+      "font_class": "news",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "774409",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "1629916",
+      "name": "爱心",
+      "font_class": "icon-test",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "2170953",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "2569878",
+      "name": "消息",
+      "font_class": "xiaoxi1",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "3216146",
+      "name": "消息",
+      "font_class": "icon--",
+      "unicode": "e746",
+      "unicode_decimal": 59206
+    },
+    {
+      "icon_id": "7140571",
+      "name": "性别男",
+      "font_class": "xingbienan",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "7140573",
+      "name": "性别女",
+      "font_class": "xingbienv",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "11125633",
+      "name": "文章",
+      "font_class": "16",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "11372756",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e8c3",
+      "unicode_decimal": 59587
+    },
+    {
+      "icon_id": "11372777",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e8c6",
+      "unicode_decimal": 59590
+    }
+  ]
+}
